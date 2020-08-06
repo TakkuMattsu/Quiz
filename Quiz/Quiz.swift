@@ -6,6 +6,10 @@
 //  Copyright © 2020 wings. All rights reserved.
 //
 
+
+
+
+
 import UIKit
 
 class Quiz{
